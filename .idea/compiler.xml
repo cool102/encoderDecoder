@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Error_Correcting_Encoder-Decoder.Error_Correcting_Encoder-Decoder-task-build-classes-java.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Error_Correcting_Encoder-Decoder-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Error_Correcting_Encoder-Decoder-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Error_Correcting_Encoder-Decoder-task-build-reports-tests.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Error_Correcting_Encoder-Decoder-task-build-test-results.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Error_Correcting_Encoder-Decoder-task-build-tmp.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Error_Correcting_Encoder-Decoder-task.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Input_streams-Convert_to_bytes.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Input_streams-Count_words.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Input_streams-FileInputStream_class.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Input_streams-Read_into_an_array.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Input_streams-Reverse_input_text.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Input_streams-Theory.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Output_streams-Convert_to_char_array.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Output_streams-Theory.main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
